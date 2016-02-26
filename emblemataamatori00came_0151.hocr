@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./emblemataamatori00came/emblemataamatori00came_0151.png"; bbox 0 0 1722 1300; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 202 125 1475 1143">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 202 125 1475 1143">
+     <span class='ocr_line' id='line_1_1' title="bbox 202 125 1475 1143; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 202 125 1475 1143; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 478 64 729 106">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 478 64 729 106">
+     <span class='ocr_line' id='line_1_2' title="bbox 478 64 729 106; baseline -0.008 0"><span class='ocrx_word' id='word_1_2' title='bbox 478 64 729 106; x_wconf 64' lang='lat' dir='ltr'>GEORs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 782 61 1100 128">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 782 61 1100 128">
+     <span class='ocr_line' id='line_1_3' title="bbox 782 61 1100 128; baseline -0.003 -25"><span class='ocrx_word' id='word_1_3' title='bbox 782 65 819 103; x_wconf 93' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_4' title='bbox 837 65 891 103; x_wconf 65' lang='lat' dir='ltr'>-A</span> <span class='ocrx_word' id='word_1_5' title='bbox 907 61 1015 128; x_wconf 62' lang='grc' dir='ltr'>Μᾞ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1030 62 1100 106; x_wconf 62' lang='grc' dir='ltr'>ὲέζ,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
